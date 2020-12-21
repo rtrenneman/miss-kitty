@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hello Hugo World</title>
-    <link>/tags/</link>
+    <link>https://rtrenneman.github.io/miss-kitty/tags/</link>
     <description>Recent content in Tags on Hello Hugo World</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rtrenneman.github.io/miss-kitty/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
