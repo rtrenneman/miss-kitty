@@ -1,4 +1,4 @@
-baseURL = "#"
+baseURL = "https://rtrenneman.github.io/miss-kitty/"
 languageCode = "en-us"
 title = "Hello Hugo World"
 theme = "ananke"
